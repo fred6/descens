@@ -1,0 +1,1 @@
+Python implementation of SM-2 algorithm, adapted from supermemo website. At one point I thought about turning this into a standalone alternative to anki (since libanki is so poorly documented), but I'm not sure I will bother to do that now.
